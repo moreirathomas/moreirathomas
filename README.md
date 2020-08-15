@@ -29,6 +29,9 @@ I'm a passionate **web developper** based in Paris 🇫🇷 learning something n
 <img height="20" align="left" alt="mogodb"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+<img height="20" align="left" alt="git"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
 <br />
 
 ***
@@ -39,5 +42,5 @@ I'm a passionate **web developper** based in Paris 🇫🇷 learning something n
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreirathomas&layout=compact&theme=monokai" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreirathomas&layout=compact&theme=monokai" />
 </a>
