@@ -35,12 +35,12 @@ I'm a passionate **web developper** based in Paris 🇫🇷 learning something n
 <br />
 
 ***
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" alt="moreirathomas's github stats"
     src="https://github-readme-stats.vercel.app/api?username=moreirathomas&include_all_commits=true&count_private=true&show_icons=true&theme=monokai" />
 </a>
-
+-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreirathomas&layout=compact&theme=monokai" />
 </a>
