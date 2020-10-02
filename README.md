@@ -2,7 +2,7 @@
 
 I'm a passionate **web developper** based in Paris 🇫🇷 learning something new everyday ⚡️
 
-- I'm currently working as an intern at chefing as a fullstack developper in a team of 3 devs 💼
+- I'm currently looking for an apprenticeship as part of my school program 🎓
 - I'm currently learning TypeScript, Angular and Node 🎯
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/thomas-moreira97) or send an [email](mailto:moreirathomas97@gmail.com) 📬
 
