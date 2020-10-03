@@ -4,7 +4,7 @@ I'm a passionate **web developper** based in Paris 🇫🇷 learning something n
 
 - I'm currently looking for an apprenticeship as part of my school program 🎓
 - I'm currently learning TypeScript, Angular and Node 🎯
-- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/thomas-moreira97) or send an [email](mailto:moreirathomas97@gmail.com) 📬
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/thomas-moreira) or send an [email](mailto:moreirathomas97@gmail.com) 📬
 
 **Languages and tools:**
 
