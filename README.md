@@ -3,7 +3,7 @@
 I'm a passionate **web developper** based in Paris 🇫🇷 learning something new everyday ⚡️
 
 - I'm currently looking for an apprenticeship as part of my school program 🎓
-- I'm currently learning TypeScript, Angular and Node 🎯
+- I'm currently learning TypeScript, Vue.js and Node 🎯
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/thomas-moreira) or send an [email](mailto:moreirathomas97@gmail.com) 📬
 
 **Languages and tools:**
@@ -19,6 +19,9 @@ I'm a passionate **web developper** based in Paris 🇫🇷 learning something n
 
 <img height="20" align="left" alt="angular"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+
+<img height="20" align="left" alt="angular"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <img height="20" align="left" alt="sass"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
