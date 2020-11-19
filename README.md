@@ -2,7 +2,7 @@
 
 I'm a passionate **web developper** based in Paris 🇫🇷 learning something new everyday ⚡️
 
-- I'm currently looking for an apprenticeship as part of my school program 🎓
+- I'm working as an apprentice front-end developer as part of my school program 🎓
 - I'm currently learning TypeScript, Vue.js and Node 🎯
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/thomas-moreira) or send an [email](mailto:moreirathomas97@gmail.com) 📬
 
