@@ -2,8 +2,9 @@
 
 I'm a passionate **web developper** based in Paris 🇫🇷 learning something new everyday ⚡️
 
-- I'm working as an apprentice front-end developer as part of my school program 🎓
-- I'm currently learning TypeScript, Vue.js and Node 🎯
+- I'm working as an apprentice fullstack developer as part of my school program 🎓
+- I write TypeScript code and use Node.js and Vue.js daily ⌨️
+- I'm enthusiast about Go and make time to learn about it whenever I can 🎯
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/thomas-moreira) or send an [email](mailto:moreirathomas97@gmail.com) 📬
 
 **Languages and tools:**
@@ -17,17 +18,11 @@ I'm a passionate **web developper** based in Paris 🇫🇷 learning something n
 <img height="20" align="left" alt="typscript"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
-<img height="20" align="left" alt="angular"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-
-<img height="20" align="left" alt="angular"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-<img height="20" align="left" alt="sass"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
 <img height="20" align="left" alt="nodejs"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img height="20" align="left" alt="vue"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <img height="20" align="left" alt="mogodb"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -35,9 +30,11 @@ I'm a passionate **web developper** based in Paris 🇫🇷 learning something n
 <img height="20" align="left" alt="git"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+<img height="20" align="left" alt="sass"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
 <br />
 
-***
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" alt="moreirathomas's github stats"
