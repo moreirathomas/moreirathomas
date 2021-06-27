@@ -1,48 +1,35 @@
-## 👋 Hello there, I'm [Thomas](https://thomasmoreira.netlify.app/)
+## 👋 Hello there, I'm Thomas
 
-I'm a passionate **web developper** based in Paris 🇫🇷 learning something new everyday ⚡️
+I'm a passionate developper based in Paris 🇫🇷 who primarily works with web technologies.
 
-- I'm working as an apprentice fullstack developer as part of my school program 🎓
-- I write TypeScript code and use Node.js and Vue.js daily ⌨️
-- I'm enthusiast about Go and make time to learn about it whenever I can 🎯
+- I'm currently in the first year of my Master degree in software engineering 🎓
+- As part of my school program, I work as an apprentice backend developer where I write stuff in TypeScript and Node.js daily ⌨️
+- I'm very enthusiast about Go, I learn and use it whenever I can 🎯
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/thomas-moreira) or send an [email](mailto:moreirathomas97@gmail.com) 📬
 
-**Languages and tools:**
+#### Main languages and tools:
 
-<img height="20" align="left" alt="vscode"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img height="28" align="left" alt="javascript"
+  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 
-<img height="20" align="left" alt="javascript"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img height="28" align="left" alt="typscript"
+  src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 
-<img height="20" align="left" alt="typscript"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img height="28" align="left" alt="nodejs"
+  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 
-<img height="20" align="left" alt="nodejs"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img height="28" align="left" alt="golang"
+  src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
 
-<img height="20" align="left" alt="vue"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img height="28" align="left" alt="vscode"
+  src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 
-<img height="20" align="left" alt="mogodb"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img height="28" align="left" alt="mogodb"
+  src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
 
-<img height="20" align="left" alt="git"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img height="28" align="left" alt="git"
+  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 
-<img height="20" align="left" alt="sass"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<br />
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" alt="moreirathomas's github stats"
-    src="https://github-readme-stats.vercel.app/api?username=moreirathomas&include_all_commits=true&count_private=true&show_icons=true&theme=monokai" />
-</a>
--->
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreirathomas&layout=compact&theme=monokai" />
-</a>
--->
+<img height="28" align="left" alt="git"
+  src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  
