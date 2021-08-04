@@ -1,11 +1,11 @@
 ## 👋 Hello there, I'm Thomas
 
-I'm a passionate developper based in Paris 🇫🇷 who primarily works with web technologies.
+I'm a passionate developper based in Paris who primarily works with web technologies.
 
-- I'm currently in the first year of my Master degree in software engineering 🎓
-- As part of my school program, I work as an apprentice backend developer where I write stuff in TypeScript and Node.js daily ⌨️
-- I'm very enthusiast about Go, I learn and use it whenever I can 🎯
-- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/thomas-moreira) or send an [email](mailto:moreirathomas97@gmail.com) 📬
+- I'm currently in the first year of my Master degree in software engineering
+- As part of my school program, I work as an apprentice backend developer where I write stuff in TypeScript and Node.js daily
+- I'm very enthusiast about Go, I learn and use it whenever I can
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/thomas-moreira) or send an [email](mailto:moreirathomas97@gmail.com)
 
 #### Main languages and tools:
 
