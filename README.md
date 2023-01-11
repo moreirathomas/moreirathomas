@@ -1,35 +1,16 @@
-## 👋 Hello there, I'm Thomas
+## Hello there, I'm Thomas
 
-I'm a passionate developper based in Paris, I primarily work with web technologies.
+I'm a passionate developper based in Paris, primarily working with web technologies.
 
-- I'm currently in the last year of my Master's degree in software engineering and will graduate in december
-- I work as a backend developer as part of my school program, working on web APIs written in Node.js and TypeScript
-- I'm very enthusiast about the Go language, ecosystem and community
-- feel free to contact me on [LinkedIn](https://www.linkedin.com/in/thomas-moreira) or send an [email](mailto:moreirathomas97@gmail.com)
+- 👨‍💻 I've been a backend developer for 3 years (working mainly with <img height="20" width="20" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node.js, <img height="20" width="20" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> TypeScript and <img height="20" width="20" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> Go
+)
+- 🌱 I'm very passionate about software craftsmanship, focusing on DDD and TDD, especially insterested in functional programming
+- 🔭 I’m currently looking for a position as a backend developer
+- 📫 Get in touch on [LinkedIn](https://www.linkedin.com/in/thomas-moreira) or send me an [email](mailto:moreirathomas97@gmail.com)
 
-#### Main languages and tools:
+##
 
-<img height="28" align="left" alt="javascript"
-  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-
-<img height="28" align="left" alt="typscript"
-  src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
-
-<img height="28" align="left" alt="nodejs"
-  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-
-<img height="28" align="left" alt="golang"
-  src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
-
-<img height="28" align="left" alt="vscode"
-  src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
-
-<img height="28" align="left" alt="mogodb"
-  src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-
-<img height="28" align="left" alt="git"
-  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-
-<img height="28" align="left" alt="git"
-  src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moreirathomas&count_private=true&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moreirathomas&count_private=true&show_icons=true&theme=default" />
+</picture>
