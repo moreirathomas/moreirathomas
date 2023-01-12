@@ -8,9 +8,9 @@ I'm a passionate developper based in Paris, primarily working with web technolog
 - 🔭 I’m currently looking for a position as a backend developer
 - 📫 Get in touch on [LinkedIn](https://www.linkedin.com/in/thomas-moreira) or send me an [email](mailto:moreirathomas97@gmail.com)
 
-##
+<!-- ##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moreirathomas&count_private=true&show_icons=true&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api?username=moreirathomas&count_private=true&show_icons=true&theme=default" />
-</picture>
+</picture> -->
