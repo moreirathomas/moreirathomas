@@ -2,7 +2,7 @@
 
 I'm a passionate developper based in Paris, primarily working with web technologies.
 
-- 👨‍💻 I'm a software engineer with 3+ years of experience (working mainly with <img height="20" width="20" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node.js, <img height="20" width="20" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> TypeScript and <img height="20" width="20" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> Go
+- 👨‍💻 I have been a software engineer for 3+ years (working mainly with <img height="20" width="20" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node.js, <img height="20" width="20" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> TypeScript and <img height="20" width="20" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> Go
 )
 - 🌱 I'm very passionate about software craftsmanship, focusing on DDD and TDD, especially insterested in functional programming
 - 🎯 I’m currently working as a backend developer at [Balyo](https://www.balyo.com/)
